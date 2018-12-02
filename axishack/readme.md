@@ -7,7 +7,7 @@ Written in Python
 
 - This setup is for Windows 64Bit
 - Download and install all softwares from this [link](https://drive.google.com/open?id=1E7EQbbPFoJ7OCTmELQtKywdOlVxMRA58)
-- While installing python select **put path environment**
+- While installing python select tick on **put path in environment**
 
 - Put installation paths of tesseract, poppler and ghostscript in environment path   
 
@@ -17,10 +17,11 @@ C:\Program Files (x86)\Tesseract-OCR\tessdata
 C:\Program Files\gs\gs9.26\bin   
 Extract Poppler anywhere and put it's **bin** path i.e C:\xxxxxxxxxx\poppler-0.67.0\bin\  
 ```
-Tesseract requires the specific java to bin in path. Please check for errors when running. Put the required java in path.
+Java - Tesseract requires the specific java to bin in path. Please check for errors when running.  
+Put the required java in path.
 
 - ### Python packges
-Download and install python from the opened link
+Download and install python from the opened link.    
 Then cd into the repo and run this on cmd
 ```
 py -3.5 -m pip install virtualenv
