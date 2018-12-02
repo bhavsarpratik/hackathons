@@ -1,6 +1,6 @@
 # PDF table extractor
-Contributor: Pratik Bhavsar
-Environment: Windows 64Bit (tested for Windows 10)
+Contributor: Pratik Bhavsar  
+Environment: Windows 64Bit (tested for Windows 10)  
 Written in Python
 
 ## Installation
@@ -9,11 +9,14 @@ Written in Python
 - Download and install all softwares from this [link](https://drive.google.com/open?id=1E7EQbbPFoJ7OCTmELQtKywdOlVxMRA58)
 - While installing python select **put path environment**
 
-- Put installation paths of tesseract, poppler and ghostscript in environment path
-`C:\Program Files (x86)\Tesseract-OCR `
-`C:\Program Files (x86)\Tesseract-OCR\tessdata`
-`C:\Program Files\gs\gs9.26\bin `
-` Extract Poppler anywhere and put it's **bin** path i.e C:\xxxxxxxxxx\poppler-0.67.0\bin\`
+- Put installation paths of tesseract, poppler and ghostscript in environment path   
+
+```
+C:\Program Files (x86)\Tesseract-OCR     
+C:\Program Files (x86)\Tesseract-OCR\tessdata  
+C:\Program Files\gs\gs9.26\bin   
+Extract Poppler anywhere and put it's **bin** path i.e C:\xxxxxxxxxx\poppler-0.67.0\bin\  
+```
 Tesseract requires the specific java to bin in path. Please check for errors when running. Put the required java in path.
 
 - ### Python packges
