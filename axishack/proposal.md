@@ -3,15 +3,16 @@ Contributor: Pratik Bhavsar
 
 #### Proposed Features
  - Works with all kinds of PDFs and images
- - The solution also automatically identifies the pages containing the tables. No manual intervention is required.
+ - No manual intervention is required.
  - Finally saves output in the required format
 
 ### Solution Design
+- Detect if the document is PDF or image
 - Identify the type of pdf
     - Normal text pdf - Parsable pdf
     - Sandwich pdf - Image pdf with parsable text
     - Image pdf - Cannot be parsed for text
-- Then it extracts the tables using OCR and non-OCR methods
+- Then extract the tables using OCR and non-OCR methods
 
 ### Tech Stack
 - Python
