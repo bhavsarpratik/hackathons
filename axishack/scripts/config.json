@@ -1,0 +1,13 @@
+{
+  "input_folder": "../test",
+  "output_folder": "../outputs",
+  "delete_temp": true,
+  "text_pdf_method": [
+    "tabula",
+    "camelot"
+  ],
+  "pool_size": 8,
+  "generate_images_dpi": 200,
+  "MIN_COL_WIDTH": 60,
+  "MIN_ROW_WIDTH": 60
+}
