@@ -25,7 +25,9 @@ import camelot
 
 
 def do_tablextract(self, g, pdf_path, p_num):  # g is globals
+    camelot_method = 'lattice' #stream/lattice
     print('Starting tablextract')
+
     if self.pdf_type == 'normal':
         print(pdf_path, p_num)
         if 'tabula' in g.text_pdf_method:
@@ -38,7 +40,7 @@ def do_tablextract(self, g, pdf_path, p_num):  # g is globals
                 except:
                     tables[i].fillna('').to_csv('%s.csv' % (table_file_path), encoding='cp1252')
         if 'camelot' in g.text_pdf_method:
-            tables = camelot.read_pdf(pdf_path,  flavor='stream', pages=str(p_num))
+            tables = camelot.read_pdf(pdf_path,  flavor=camelot_method, pages=str(p_num))
             for i in range(len(tables)):
                 # print(tables[0].parsing_report)
                 table_file_path = '%s/%s-%s.csv' % (self.tables_folder_camelot, p_num, i)
@@ -282,6 +284,6 @@ def do_tablextract(self, g, pdf_path, p_num):  # g is globals
         print("saving extracted data to '%s'" % csv_output_file)
         df.to_csv(csv_output_file, index=False, header=False)
 
-        html_output_file = os.path.join(self.tables_folder, filename + '.html')
-        print("saving extracted data to '%s'" % html_output_file)
-        df.to_html(html_output_file, index=False, header=False)
+        # html_output_file = os.path.join(self.tables_folder, filename + '.html')
+        # print("saving extracted data to '%s'" % html_output_file)
+        # df.to_html(html_output_file, index=False, header=False)

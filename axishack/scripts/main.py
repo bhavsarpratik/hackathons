@@ -160,6 +160,50 @@ class PDFToExcel:
             except Exception as e:
                 self.logger.error('\n########\nFailed do_tablextract for: %s | %s\n########\n' % (pdf_path, e))
 
+
+    def combine_and_save_all_files(self):
+        print('Generating Tabula combined output')
+        path = self.tables_folder_tabula
+        file_paths = glob.glob('%s/*.csv' % path)
+        if file_paths:
+            tabula_combine_output_path = os.path.join(self.output_path, self.filename+'-tabula.csv')
+            with open(tabula_combine_output_path, 'w', encoding='utf-8') as out_file:
+                for file_path in file_paths:
+                    with open(file_path, 'r', encoding='utf-8') as in_file:
+                        out_file.write(file_path + '\n')
+                        for line in in_file.readlines():
+                            out_file.write(line)
+                        out_file.write('\n')
+                        out_file.write('\n')
+
+        print('Generating camelot combined output')
+        path = self.tables_folder_camelot
+        file_paths = glob.glob('%s/*.csv' % path)
+        if file_paths:
+            camelot_combine_output_path = os.path.join(self.output_path, self.filename+'-camelot.csv')
+            with open(camelot_combine_output_path, 'w', encoding='utf-8') as out_file:
+                for file_path in file_paths:
+                    with open(file_path, 'r', encoding='utf-8') as in_file:
+                        out_file.write(file_path + '\n')
+                        for line in in_file.readlines():
+                            out_file.write(line)
+                        out_file.write('\n')
+                        out_file.write('\n')
+
+        print('Generating tablextract combined output')
+        path = self.tables_folder
+        file_paths = glob.glob('%s/*.csv' % path)
+        if file_paths:
+            combine_output_path = os.path.join(self.output_path, self.filename+'-tablextract.csv')
+            with open(combine_output_path, 'w', encoding='utf-8') as out_file:
+                for file_path in file_paths:
+                    with open(file_path, 'r', encoding='utf-8') as in_file:
+                        out_file.write(file_path + '\n')
+                        for line in in_file.readlines():
+                            out_file.write(line)
+                        out_file.write('\n')
+                        out_file.write('\n')
+
     def cleanup(self):
         if g.delete_temp:
             util.delete_contents(self.temp_folder, delete_files=True, delete_folders=True, delete_itself=True)
@@ -177,6 +221,7 @@ if __name__ == '__main__':
                 parser.set_pdf_type()
             parser.extract_table_type_list()
             parser.extract_and_save_tables()
+            parser.combine_and_save_all_files()
             # parser.cleanup()
             logger.info('xxxxxxxxxxx \nCOMPLETED %s \nxxxxxxxxxxx' % file_path)
         except Exception as e:
