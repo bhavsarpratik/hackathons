@@ -37,3 +37,11 @@ pratik-env\Scripts\activate #This activates the environment
 cd scripts # This contains the executables
 python main.py #This runs the main script
 ```
+
+## Output
+The consolidated output will be saved in outputs folder with format
+- original_file_name-camelot.csv
+- original_file_name-tabula.csv
+- original_file_name-tablextract.csv
+
+Every input file will generate some/all these 3 files. The best output is to be selected of these for every input file.

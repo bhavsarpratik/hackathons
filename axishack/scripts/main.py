@@ -27,7 +27,6 @@ class Globals:
 
 g = util.add_params_to_object_from_dict_path(Globals(), 'config.json')
 
-
 class PDFToExcel:
     def __init__(self, file_path):
         self.file_path = file_path
@@ -207,11 +206,17 @@ if __name__ == '__main__':
             parser.create_all_dirs(delete_old=True)
             parser.make_logger()
             if parser.doc_type == 'pdf':
+                # parser.pdf_type='normal'
                 parser.set_pdf_type()
             parser.extract_table_type_list()
             parser.extract_and_save_tables()
             parser.combine_and_save_all_files()
-            # parser.cleanup()
+            if parser.pdf_type!='normal':
+                parser.pdf_type='normal'
+                parser.extract_table_type_list()
+                parser.extract_and_save_tables()
+                parser.combine_and_save_all_files()
+            parser.cleanup()
             logger.info('xxxxxxxxxxx \nCOMPLETED %s \nxxxxxxxxxxx' % file_path)
         except Exception as e:
             logger.error('%s: %s' % (file_path, e))
