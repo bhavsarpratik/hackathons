@@ -47,14 +47,15 @@ def do_tablextract(self, g, pdf_path, p_num):  # g is globals
                 tables.export(table_file_path, f='csv', compress=False)
 
     else:
-        # trying camelot
-        print('Doing camelot-stream')
-        camelot_method = 'stream' #stream/lattice
-        tables = camelot.read_pdf(pdf_path,  flavor=camelot_method, pages=str(p_num))
-        for i in range(len(tables)):
-            # print(tables[0].parsing_report)
-            table_file_path = '%s/%s-%s.csv' % (self.tables_folder_camelot, p_num, i)
-            tables.export(table_file_path, f='csv', compress=False)
+        if self.doc_type == 'image':
+            # trying camelot
+            print('Doing camelot-stream')
+            camelot_method = 'stream' #stream/lattice
+            tables = camelot.read_pdf(pdf_path,  flavor=camelot_method, pages=str(p_num))
+            for i in range(len(tables)):
+                # print(tables[0].parsing_report)
+                table_file_path = '%s/%s-%s.csv' % (self.tables_folder_camelot, p_num, i)
+                tables.export(table_file_path, f='csv', compress=False)
 
         # Trying pdftabextract
         filename = os.path.basename(pdf_path).split('.')[0].split('/')[0]
