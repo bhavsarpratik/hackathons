@@ -8,6 +8,6 @@
   ],
   "pool_size": 8,
   "generate_images_dpi": 200,
-  "MIN_COL_WIDTH": 60,
-  "MIN_ROW_WIDTH": 60
+  "MIN_COL_WIDTH": 100,
+  "MIN_ROW_WIDTH": 30
 }

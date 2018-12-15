@@ -25,8 +25,8 @@ import camelot
 
 
 def do_tablextract(self, g, pdf_path, p_num):  # g is globals
-    camelot_method = 'lattice' #stream/lattice
     print('Starting tablextract')
+    camelot_method = 'lattice' #stream/lattice
 
     if self.pdf_type == 'normal':
         print(pdf_path, p_num)
@@ -47,6 +47,16 @@ def do_tablextract(self, g, pdf_path, p_num):  # g is globals
                 tables.export(table_file_path, f='csv', compress=False)
 
     else:
+        # trying camelot
+        print('Doing camelot-stream')
+        camelot_method = 'stream' #stream/lattice
+        tables = camelot.read_pdf(pdf_path,  flavor=camelot_method, pages=str(p_num))
+        for i in range(len(tables)):
+            # print(tables[0].parsing_report)
+            table_file_path = '%s/%s-%s.csv' % (self.tables_folder_camelot, p_num, i)
+            tables.export(table_file_path, f='csv', compress=False)
+
+        # Trying pdftabextract
         filename = os.path.basename(pdf_path).split('.')[0].split('/')[0]
         DATAPATH = self.images_folder  # 'data/'
         INPUT_XML = '%s/%s.xml' % (self.images_folder, filename)
@@ -265,6 +275,7 @@ def do_tablextract(self, g, pdf_path, p_num):  # g is globals
             """
             return [(l[i - 1], v) for i, v in enumerate(l) if i > 0]
 
+        # page_rowpos = [y for y in pos_y if top_y <= y <= bottom_y]
         print(page_colpos, page_rowpos)
         grid = make_grid_from_positions(page_colpos, page_rowpos)
         # print(grid)

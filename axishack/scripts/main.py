@@ -161,48 +161,37 @@ class PDFToExcel:
                 self.logger.error('\n########\nFailed do_tablextract for: %s | %s\n########\n' % (pdf_path, e))
 
 
+    def combine_files(self, combine_output_path, file_paths):
+        with open(combine_output_path, 'w', encoding='utf-8') as out_file:
+            for file_path in file_paths:
+                with open(file_path, 'r', encoding='utf-8') as in_file:
+                    out_file.write(file_path + '\n')
+                    for line in in_file.readlines():
+                        out_file.write(line)
+                    out_file.write('\n')
+                    out_file.write('\n')
+
     def combine_and_save_all_files(self):
-        print('Generating Tabula combined output')
         path = self.tables_folder_tabula
         file_paths = glob.glob('%s/*.csv' % path)
         if file_paths:
-            tabula_combine_output_path = os.path.join(self.output_path, self.filename+'-tabula.csv')
-            with open(tabula_combine_output_path, 'w', encoding='utf-8') as out_file:
-                for file_path in file_paths:
-                    with open(file_path, 'r', encoding='utf-8') as in_file:
-                        out_file.write(file_path + '\n')
-                        for line in in_file.readlines():
-                            out_file.write(line)
-                        out_file.write('\n')
-                        out_file.write('\n')
+            print('Generating Tabula combined output')
+            combine_output_path = os.path.join(self.output_path, self.filename+'-tabula.csv')
+            self.combine_files(combine_output_path, file_paths)
 
-        print('Generating camelot combined output')
         path = self.tables_folder_camelot
         file_paths = glob.glob('%s/*.csv' % path)
         if file_paths:
-            camelot_combine_output_path = os.path.join(self.output_path, self.filename+'-camelot.csv')
-            with open(camelot_combine_output_path, 'w', encoding='utf-8') as out_file:
-                for file_path in file_paths:
-                    with open(file_path, 'r', encoding='utf-8') as in_file:
-                        out_file.write(file_path + '\n')
-                        for line in in_file.readlines():
-                            out_file.write(line)
-                        out_file.write('\n')
-                        out_file.write('\n')
+            print('Generating camelot combined output')
+            combine_output_path = os.path.join(self.output_path, self.filename+'-camelot.csv')
+            self.combine_files(combine_output_path, file_paths)
 
-        print('Generating tablextract combined output')
         path = self.tables_folder
         file_paths = glob.glob('%s/*.csv' % path)
         if file_paths:
+            print('Generating tablextract combined output')
             combine_output_path = os.path.join(self.output_path, self.filename+'-tablextract.csv')
-            with open(combine_output_path, 'w', encoding='utf-8') as out_file:
-                for file_path in file_paths:
-                    with open(file_path, 'r', encoding='utf-8') as in_file:
-                        out_file.write(file_path + '\n')
-                        for line in in_file.readlines():
-                            out_file.write(line)
-                        out_file.write('\n')
-                        out_file.write('\n')
+            self.combine_files(combine_output_path, file_paths)
 
     def cleanup(self):
         if g.delete_temp:
