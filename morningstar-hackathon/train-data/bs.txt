@@ -1,0 +1,107 @@
+CAPITAL AND LIABILITIES
+Capital 1 4,605,934 4,564,858
+Reserves and surplus 2 252,976,864 215,975,735
+Deposits 3 2,007,381,476 1,428,738,567
+Borrowings 4 748,935,808 386,066,730
+Other liabilities and provisions 5 110,555,951 115,253,287
+TOTAL 3,124,456,033 2,150,599,177
+ASSETS
+Cash and balances with Reserve Bank of India 6 114,257,489 69,520,697
+Balances with banks and money at call and short notice 7 133,086,175 125,973,744
+Investments 8 683,989,387 500,317,983
+Advances 9 2,035,338,628 1,322,626,769
+Fixed assets 10 8,323,917 6,835,385
+Other assets 11 149,460,437 1,25,324,599
+TOTAL 3,124,456,033 2,150,599,177
+Contingent liabilities 12 5,818,296,390 3,795,641,601
+Bills for collection 19,355,641 13,900,033
+
+Equity and liabilities
+Shareholders' funds
+Share capital 856.81 856.81 729.53 729.53 529.53 396.20
+Share capital suspense 48.90 - - - - -
+Reserves and surplus 7,188.96 6,051.15 3,869.24 3,034.44 1,543.22 709.70
+8,094.67 6,907.96 4,598.77 3,763.97 2,072.75 1,105.90
+Non-current Liabilities
+Long-term borrowings 15,556.75 11,758.82 11,221.46 5,849.80 3,700.18 1,470.05
+Long-term provisions 1,198.97 307.23 107.52 29.84 29.01 50.70
+16,755.72 12,066.05 11,328.98 5,879.64 3,729.19 1,520.75
+Current liabilities
+Short-term borrowings 200.00 - 200.00 - - -
+Other current liabilities 18,859.36 15,494.17 11,744.57 7,503.99 4,717.35 2,794.26
+Short-term provisions 377.92 1,172.54 207.44 120.49 61.51 13.76
+19,437.28 16,666.71 12,152.01 7,624.48 4,778.86 2,808.02
+TOTAL 44,287.67 35,640.72 28,079.76 17,268.09 10,580.80 5,434.67
+Assets
+Non-current assets
+Fixed assets
+-Property, plant and equipment 67.21 59.80 53.18 25.67 24.78 26.23
+-Intangible assets 74.58 62.82 60.18 11.51 1.50 1.50
+-Capital work-in-progress - 7.04 - - - -
+-Intangible assets under development 3.27 23.27 - 24.94 2.31 1.08
+Non-current investments 2.00 2.00 2.00 2.00 2.02 2.05
+Deferred tax asset 491.58 484.94 110.31 59.47 32.16 27.01
+Loans and advances 10,435.00 6,376.15 7,712.25 2,703.02 1,586.89 954.16
+Other non-current assets 85.07 119.58 392.42 737.31 447.64 343.95
+11,158.71 7,135.60 8,330.34 3,563.92 2,097.30 1,355.98
+Current assets
+Current investments 1,665.34 - - - - 2.59
+Trade receivables - - - - - 0.20
+Cash and bank balances 2,187.71 3,636.88 2,549.15 2,797.74 3,250.31 912.43
+Loan and advances 29,111.30 24,514.53 17,041.64 10,827.49 5,177.17 3,010.54
+Other current assets 164.61 353.71
+
+
+ASSETS
+I. Non-current assets
+(a) Property, plant and equipment 5 2,877.90 2,815.07 2,601.50
+(b) Capital work-in-progress 5 58.32 74.08 75.42
+(c) Investment property 6 117.74 118.33 118.92
+(d) Intangible assets 7 80.36 14.86 9.40
+(e) Intangible assets under development 7 - 23.79 -
+(f) Financial assets
+(i) Investments 8 1,264.92 1,147.71 814.00
+(ii) Loans 8 2.45 2.76 3.81
+(iii) Other financial assets 8 43.45 44.65 40.55
+(g) Other non-current assets 9 60.04 53.29 86.57
+Total non-current assets 4,505.18 4,294.54 3,750.17
+II. Current assets
+(a) Inventories 10 1,299.24 1,137.20 1,040.54
+(b) Financial assets
+(i) Trade receivables 8 490.03 453.84 484.97
+(ii) Cash and cash equivalents 8 4.31 14.83 17.69
+(iii) Bank balance other than (iii) above 8 8.97 8.58 27.29
+(iv) Loans 8 353.08 577.21 598.37
+(v) Others financial assets 8 161.61 159.60 116.06
+(c) Current tax assets (net) 11 40.09 64.76 60.41
+(d) Other current assets 9 290.99 279.11 298.66
+2,648.32 2,695.13 2,643.99
+(e) Assets classified as held for sale 12 - - 139.07
+Total current assets 2,648.32 2,695.13 2,783.06
+Total Assets 7,153.50 6,989.67 6,533.23
+EQUITY AND LIABILITIES
+Equity
+Equity share capital 13 258.36 258.24 258.24
+Other equity 14 2,983.35 2,727.89 2,543.03
+Total equity 3,241.71 2,986.13 2,801.27
+LIABILITIES
+I. Non-current liabilities
+(a) Financial liabilities
+(i) Borrowings 15 1,085.10 1,332.01 1,171.31
+(ii) Other financial liabilities 15 1.01 1.81 1.53
+(b) Long-term provisions 16 27.18 21.73 18.80
+(c) Deferred tax liabilities (net) 29 68.34 49.06 8.60
+(d) Government grants 17 30.78 25.24 12.80
+Total non-current liabilities 1,212.41 1,429.85 1,213.04
+II. Current liabilities
+(a) Financial liabilities
+(i) Borrowings 15 1,750.26 1,521.74 1,488.09
+(ii) Trade payables 15 667.73 633.46 584.65
+(iii) Other financial liabilities 15 211.96 380.83 350.65
+(b) Other current liabilities 18 58.36 29.77 48.07
+(c) Short-term provisions 16 6.38 4.51 5.52
+(d) Government grants 17 4.69 3.38 2.84
+2,699.38 2,573.69 2,479.82
+(e) Liabilities directly associated with assets classified as held for sale 12 - - 39.10
+Total current liabilities
+

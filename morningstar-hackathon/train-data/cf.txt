@@ -1,0 +1,102 @@
+CASH FLOW FROM OPERATING ACTIVITIES
+NET PROFIT BEFORE TAXES 61,943,094 50,441,173
+ADJUSTMENT FOR
+Depreciation for the year 2,309,704 1,712,519
+Amortization of premium on investments 1,673,308 789,586
+Provision for investments 2,599,443 522,117
+Provision for standard advances 1,687,427 831,396
+Provision/write off of non performing advances 10,788,287 6,634,414
+Other provisions 397,075 (176,774)
+(Profit)/Loss on sale of land, building and other assets 12,892 (182)
+(i) 81,411,230 60,754,249
+ADJUSTMENTS FOR :
+Increase/(Decrease) in Deposits 578,642,909 311,543,236
+Increase/(Decrease) in Other Liabilities (1,384,431) 39,828,371
+(Increase)/Decrease in Investments (104,836,672) 27,645,612
+(Increase)/Decrease in Advances (725,187,573) (347,161,913)
+(Increase)/Decrease in Other assets (24,532,910) (30,073,864)
+(ii) (277,298,677) 1,781,442
+Payment of direct taxes (iii) (22,889,711) (18,749,191)
+Net cash generated from/(used in) operating activities (A) (i+ii+iii) (218,777,158) 43,786,500
+CASH FLOW FROM INVESTING ACTIVITIES
+Purchase of fixed assets (3,900,382) (3,876,000)
+Proceeds from sale of fixed assets 89,251 35,459
+(Increase)/Decrease in Held To Maturity (HTM) securities (82,552,484) (40,890,641)
+Investment in subsidiaries (555,000) -
+Net cash generated/(used in) from investing activities (B) (86,918,615) (44,731,182)
+CASH FLOW FROM FINANCING ACTIVITIES
+Increase in Borrowings 241,003,504 43,568,618
+Tier II Debt raised 70,000,000 -
+Innovative Perpetual Debt raised 54,150,000 30,000,000
+Tier II Debt repaid during the year (2,489,000) (3,786,000)
+Proceeds from issue of Share Capital (net of share issue expense) 1,420,167 49,576,625
+Dividend paid during the year (5,488,101) (4,209,981)
+Tax on dividend paid (1,117,377) (857,152)
+Net cash generated from/(used in) financing activities (C) 357,479,193 114,292,110
+Effect of exchange fluctuation on translation reserve (D) 65,803 (37,234)
+Net increase in cash and cash equivalents (A+B+C+D) 51,849,223 113,310,194
+Cash and cash equivalents as at April 1st 195,494,441 82,184,247
+Cash and cash equivalents as at Mar 31st 247,343,664 195,494,441
+NOTES TO THE CASH FLOW STATEMENT:
+Cash and cash equivalents includes the following
+Cash and Balances with Reserve Bank of India 114,257,489 69,520,697
+Balances with Banks and Money at Call and Short Notice 133,086,175 125,973,744
+Cash and cash equivalents as at March 31st 247,343,664 195,494,44
+Cash flow from investing activities :
+Purchase of property, plant and
+equipment and intangible assets
+(13.91) (84.96) (78.10) (53.25) (6.82) (3.89)
+Proceeds from sale of property, plant and
+equipment
+0.07 0.40 0.31 0.46 0.13 0.83
+Dividend income from current
+investment
+- - - - - 9.36
+Cash and cash equivalents acquired
+pursuant to Scheme of Arrangement (ref
+Annexure 28.13)
+Sale / redemption of non-current
+investments
+- - - 0.02 0.02 -
+Purchase of non-current investment - - - - - (0.05)
+Purchase of current investments
+(19,566.20)
+(23,249.00)
+(22,174.90)
+(15,654.10)
+(10,538.80)
+(6,563.00)
+Sale of current investments 17,956.50 23,284.64 22,213.23 15,698.16 10,575.46 6,560.50
+Net cash used in investing activities (B) (1,091.67) (48.92) (39.46) (8.71) 29.99 3.75
+C. Cash flow from financing activities :
+Long-term borrowings (net) 6,851.26 4,549.20 9,227.83 4,853.08 4,164.56 1,734.37
+Short-term borrowings (net) 200.00 (200.00) 200.00 - - (317.50)
+Payment of processing fee towards
+borrowings
+(26.64) (58.03) (82.95) (77.30) (61.14) (30.54)
+Proceeds from issuance of equity share
+capital including securities premium
+- 1,500.00 - 1,200.00 800.00 532.00
+Payment of expense towards issue of
+share capital
+- (0.16) (1.30) (1.69) (6.40) (5.72)
+Net cash from financing activities (C) 7,024.62 5,791.01 9,343.58 5,974.09 4,897.02 1,912.61
+Net increase/(decrease) in cash and
+cash equivalents (A) + (B) + (C)
+(1,304.86) 1,494.24 (6.76) (1,018.83) 2,217.86 570.03
+Cash and cash equivalents as at the
+beginning of the period / year
+3,321.08 1,826.83 1,833.60 2,852.43 634.57 64.54
+Cash and cash equivalents as at end of
+the period / year (refer Annexure 19)
+2,016.22 3,321.07 1,826.84 1,833.60 2,852.43 634.57
+Components of cash and cash
+equivalents at the period / year end
+Cash on hand 115.59 83.57 161.96 109.48 49.76 1.01
+Balance with banks - on current account 1,040.13 737.51 1,114.88 724.12 1,740.85 430.09
+Deposits with original maturity of less
+than or equal to 3 months
+860.50 2,500.00 550.00 1,000.00 1,061.82 203.47
+Components of cash and cash
+equivalents at the period / year end
+2,016.22 3,321.08

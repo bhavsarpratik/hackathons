@@ -1,0 +1,21 @@
+{
+  "input_folder": "../test",
+  "output_folder": "../outputs",
+  "delete_temp": true,
+  "classifier_model_path": "../models/nb_mindf2.pkl",
+  "model_prob_cutoff": 0.4,
+  "choose_top_k": 5,
+  "imp_tb_types": [
+    "is",
+    "bs",
+    "cf",
+    "IncomeStatement",
+    "BalanceStatement",
+    "CashflowStatement"
+  ],
+  "test_page_num": 10,
+  "pool_size": 8,
+  "generate_images_dpi": 200,
+  "MIN_COL_WIDTH": 60,
+  "MIN_ROW_WIDTH": 60
+}

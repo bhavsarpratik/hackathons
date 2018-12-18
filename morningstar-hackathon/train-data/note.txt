@@ -1,0 +1,313 @@
+CASH FLOW FROM FINANCING ACTIVITIES
+Increase in Borrowings 241,003,504 43,568,618
+Tier II Debt raised 70,000,000 -
+Innovative Perpetual Debt raised 54,150,000 30,000,000
+Tier II Debt repaid during the year (2,489,000) (3,786,000)
+Proceeds from issue of Share Capital (net of share issue expense) 1,420,167 49,576,625
+Dividend paid during the year (5,488,101) (4,209,981)
+Tax on dividend paid (1,117,377) (857,152)
+Net cash generated from/(used in) financing activities (C) 357,479,193 114,292,110
+Effect of exchange fluctuation on translation reserve (D) 65,803 (37,234)
+Net increase in cash and cash equivalents (A+B+C+D) 51,849,223 113,310,194
+Cash and cash equivalents as at April 1st 195,494,441 82,184,247
+Cash and cash equivalents as at Mar 31st 247,343,664 195,494,441
+NOTES TO THE CASH FLOW STATEMENT:
+Cash and cash equivalents includes the following
+Cash and Balances with Reserve Bank of India 114,257,489 69,520,697
+Balances with Banks and Money at Call and Short Notice 133,086,175 125,973,744
+Cash and cash equivalents as at March 31st 247,343,664 195,494,441
+SCHEDULE 3 - DEPOSITS
+A. I. Demand Deposits
+i) From Banks 14,602,217 10,543,996
+ii) From Others 273,655,030 180,334,205
+II. Savings Bank Deposit 443,504,509 327,818,301
+III. Term Deposits
+i) From banks 112,971,241 78,421,060
+ii) From others (incl. CD’s issued) 1,162,648,479 831,621,005
+TOTAL 2,007,381,476 1,428,738,567
+B. I. Deposits of branches in India 2,006,449,601 1,428,635,283
+II. Deposits of branches outside India 931,875 103,284
+TOTAL 2,007,381,476 1,428,738,567
+(` in thousands)
+As at
+Mar 31, 2018
+As at
+Mar 31, 2017
+SCHEDULE 4 - BORROWINGS
+I. INNOVATIVE PERPETUAL DEBT INSTRUMENTS (IPDI) AND TIER II DEBT
+A. Borrowing in India
+i) IPDI 91,560,000 37,410,000
+ii) Tier II Borrowings 152,339,000 84,828,000
+TOTAL (A) 243,899,000 122,238,000
+B. Borrowings outside India
+i) IPDI 325,875 324,250
+ii) Tier II Borrowings 11,172,824 10,969,876
+TOTAL (B) 11,498,699 11,294,126
+TOTAL (A+B) 255,397,699 133,532,126
+II. OTHER BORROWINGS(1)
+A. Borrowings in India
+i) Reserve Bank of India 15,000,000 -
+ii) Other banks 15,811,399 21,818,909
+iii) Other institutions and agencies(2) 187,167,910 81,117,555
+TOTAL (A) 217,979,309 102,936,464
+B. Borrowings outside India(3) 275,558,800 149,598,140
+SCHEDULE 5 - OTHER LIABILITIES AND PROVISIONS
+I. BILLS PAYABLE 9,151,490 5,925,696
+II. INTER-OFFICE ADJUSTMENTS (NET) - -
+III. INTEREST ACCRUED 21,932,830 14,787,213
+IV. OTHERS (INCLUDING PROVISIONS)
+- Provision for standard advances 9,493,909 7,806,482
+- Country risk provision - -
+- Others 69,977,722 86,733,896
+TOTAL 110,555,951 115,253,287
+(` in thousands)
+As at
+Mar 31, 2018
+As at
+Mar 31, 2017
+SCHEDULE 6 - CASH AND BALANCES WITH RESERVE BANK OF INDIA
+I. Cash in hand 6,226,739 5,705,440
+II. Balances with Reserve Bank of India
+- In current account 108,030,750 63,815,257
+- In other account - -
+TOTAL 114,257,489 69,520,697
+(` in thousands)
+As at
+Mar 31, 2018
+As at
+Mar 31, 2017
+SCHEDULE 7 - BALANCES WITH BANKS AND MONEY AT CALL AND
+SHORT NOTICE
+I. IN INDIA
+Balances with banksi)
+In current accounts 781,586 615,101
+ii) In other deposit accounts 83 77
+Money at call and short notice
+i) With Banks - 6,400,000
+ii) With other institutions - -
+iii) Lending under reverse repo (RBI & Banks) 112,009,654 77,533,403
+TOTAL (I) 112,791,323 84,548,581
+II. OUTSIDE INDIA
+i) In current account 14,494,277 22,618,582
+ii) In other deposit account - -
+iii) Money at call and short notice
+SCHEDULE 8 - INVESTMENTS (NET OF PROVISIONS)
+A. INVESTMENTS IN INDIA
+i) Government Securities 488,860,831 354,804,669
+ii) Other approved securities - -
+iii) Shares 643,782 2,369,461
+iv) Debentures and bonds 145,045,609 110,453,002
+v) Subsidiaries and/or joint ventures 1,055,000 500,000
+vi) Others (CPs, CDs, Security Receipts, Pass through certificates etc) 38,030,003 30,438,101
+TOTAL (I) 673,635,225 498,565,233
+B. INVESTMENTS OUTSIDE INDIA
+i) Government Securities 3,445,612 322,750
+ii) Debentures and bonds 6,908,550 1,430,000
+TOTAL (II) 10,354,162 1,752,750
+TOTAL (I+II) 683,989,387 500,317,983
+(` in thousands)
+As at
+Mar 31, 2018
+As at
+Mar 31, 2017
+SCHEDULE 9 - ADVANCES
+A. i) Bills purchased and discounted 24,244,084 15,592,229
+ii) Cash credit, overdrafts and loans payable on demand 381,074,691 285,619,143
+iii) Term loans 1,630,019,853 1,021,415,397
+TOTAL 2,035,338,628 1,322,626,769
+B. i) Secured by tangible assets (includes advances secured by fixed
+deposits and book debt)
+1,477,676,098 971,727,832
+ii) Covered by Bank/Government guarantees 5,996,099 9,982,743
+iii) Unsecured(1) 551,666,431 340,916,194
+TOTAL 2,035,338,628 1,322,626,769
+1 Includes advances of `337,552,952 thousands (March 31, 2017:
+`194,674,665 thousands) for which security documentation is either being
+obtained or being registered. There are no outstanding advances as at
+March 31, 2018 and March 31, 2017 for which only intangible securities
+such as charge over the rights, licenses, authority, etc has been taken.
+C. I. Advances in India
+i) Priority sectors 446,472,144 291,727,756
+ii) Public sector 1,524,237 611,812
+iii) Banks 1,214,227 1,336,192
+iv) Others 1,442,062,406 968,611,004
+II. Advances outside India
+i) Due from Banks 1,716,986 803,409
+ii) Due from Others
+(a) Bills purchased and discounted - -
+(b) Syndicated loans 142,348,628 59,536,596
+(c) others
+SCHEDULE 10 - FIXED ASSETS
+I. PREMISES
+At cost as on March 31st of preceding year 378,031 -
+Additions during the year - 378,031
+Deductions during the year - -
+Accumulated depreciation to date (8,402) (2,101)
+TOTAL (I) 369,629 375,930
+II. OTHER FIXED ASSETS (INCLUDING FURNITURE AND FIXTURES
+AND SOFTWARE)
+At cost as on March 31st of preceding year 11,745,713 8,509,222
+Additions during the year 3,931,501 3,338,916
+Deductions during the year (444,470) (102,425)
+Accumulated depreciation to date (7,994,083) (6,033,004)
+TOTAL (II) 7,238,661 5,712,709
+TOTAL (I+II) 7,608,290 6,088,639
+Capital work-in-progress 715,627 746,746
+TOTAL 8,323,917 6,835,385
+(` in thousands)
+As at
+Mar 31, 2018
+As at
+Mar 31, 2017
+SCHEDULE 11 - OTHER ASSETS
+I. Interest Accrued 25,152,344 20,753,822
+II. Advance tax and tax deducted at source (net of provision) 1,674,968 1,170,481
+III. Deferred tax asset [Refer Sch 18.6.18] 8,717,588 6,029,821
+IV. Non-Banking assets aquired in satisfaction of claims 364,790 427,230
+V. Others 113,550,747 96,943,245
+TOTAL 149,460,437 125,324,599
+(` in thousands)
+As at
+Mar 31, 2018
+As at
+Mar 31, 2017
+SCHEDULE 12 - CONTINGENT LIABILITIES
+I. Claims against the bank not acknowledged as debts 116,436 59,375
+II. Liability for partly paid investments - -
+III. Liability on account of outstanding forward exchange contracts 3,000,448,825 1,633,440,599
+IV. Liability on account of outstanding derivative contracts
+- Single currency Interest Rate Swap 1,141,440,348 900,717,664
+- Others 783,747,908 557,600,726
+V. Guarantees given on behalf on constituents
+- In India 314,307,933 238,664,671
+- Outside India - -
+VI. Acceptances, endorsement and other obligations 411,689,385 319,204,078
+VII. Other items for which the bank is contingently liable
+- Purchase of securities pending settlement 9,068,982 2,375,682
+- Capital commitment 2,936,618 1,664,143
+- Amount deposited with RBI under Depositor Education and Awareness
+Fund (DEAF)
+13,533 4,702
+- Foreign exchange contracts (Tom & Spot) 154,526,423 141,909,961
+TOTAL 5,818,296,390 3,795,641,601
+Contingent Liability on account of outstanding forward exchange contracts and single currency interest rate swap as on March 31, 2018
+includes notional amount of `2,315,099,034 thousands and `318,672,816 thousands (previous year: `1,168,538,967 thousands and
+`195,660,885 thousands) guaranteed by CCIL representing 77.16% and 27.92% (previous year: 71.54% and 21.72%) of total outstanding
+forward exchange contracts and single currency interest rate swaps respectively.
+(` in thousands)
+For the year ended
+Mar 31, 2018
+For the year ended
+Mar 31, 2017
+SCHEDULE 13 - INTEREST EARNED
+I. Interest/discount on advances/bills 154,782,364 122,097,659
+II. Income on investments 41,025,311 37,968,422
+III. Interest on balances with Reserve Bank of India and other inter-bank funds 5,160,730 2,578,210
+IV. Others 1,705,811 1,602,146
+TOTAL 202,674,216 164,246,437
+(` in thousands)
+For the year ended
+Mar 31, 2018
+For the year ended
+Mar 31, 2017
+SCHEDULE 14 - OTHER INCOME
+I. Commission, exchange and brokerage 41,379,643 31,399,553
+II. Profit on the sale of investments (net) 5,134,739 7,112,679
+III. Profit/(Loss) on the revaluation of investments (net) - -
+IV. Profit/(Loss) on sale of land, building and other assets (12,892) 182
+V. Profit on exchange transactions (net) 2,315,709 1,018,902
+VI. Income earned by way of dividends etc. from subsidiaries, companies and/or
+joint ventures abroad/in India
+- -
+VII. Miscellaneous income 3,421,136 2,036,253
+TOTAL 52,238,335 41,567,569
+(` in thousands)
+For the year ended
+Mar 31, 2018
+For the year ended
+Mar 31, 2017
+SCHEDULE 15 - INTEREST EXPENDED
+I. Interest on deposits 93,834,137 82,040,497
+II. Interest on Reserve Bank of India/inter-bank borrowings/Tier I and Tier
+II debt instruments
+29,840,501 22,242,771
+III. Others
+SCHEDULE 16 - OPERATING EXPENSES
+I. Payments to and provisions for employees 21,889,199 18,050,433
+II. Rent, taxes and lighting 4,543,758 3,791,818
+III. Printing and stationery 368,753 271,801
+IV. Advertisement and publicity 959,102 1,004,685
+V. Depreciation on Bank's property 2,309,704 1,712,519
+VI. Directors' fees, allowances and expenses 19,848 29,152
+VII. Auditors' fees and expenses 13,685 13,000
+VIII. Law charges 60,940 36,745
+IX. Postage, telegrams, telephones, etc. 604,220 485,551
+X. Repairs and maintenance 345,426 202,262
+XI. Insurance 1,512,106 1,196,321
+XII. Other expenditure 19,501,057 14,371,123
+TOTAL 52,127,798 41,165,410
+(` in thousands)
+For the year ended
+Mar 31, 2018
+For the year ended
+Mar 31, 2017
+SCHEDULE 17 - PROVISIONS & CONTINGENCIES
+I. Provision for taxation [Refer Sch 18.6.1] 19,697,457 17,140,211
+II. Provision for investments 2,599,443 522,117
+III. Provision for standard advances 1,687,427 831,396
+IV. Provision/write off for non performing advances 10,788,287 6,634,414
+V. Other Provisions 462,878 (53,873)
+
+Power and fuel 495.25 493.65
+Stores consumed 473.33 463.66
+Insurance 9.96 10.70
+Processing charges 300.62 295.75
+Printing, stationery & communication 32.62 26.29
+Rent 358.91 264.34
+Commission, Brokerage & discount 139.01 106.41
+Rates and taxes 34.34 27.89
+Repairs :
+To Building 4.40 4.22
+To Machineries (including spares consumption) 134.36 124.34
+To others 64.86 42.94
+Freight, insurance & clearing charge 107.66 92.00
+Excise duty expense 36.42 26.26
+Legal & Professional charges 49.95 36.29
+Conveyance & Travelling expense 61.68 52.31
+Advertisement and publicity 162.05 176.81
+Director’s sitting fees 0.05 0.04
+Miscellaneous Labour charges 162.63 127.41
+Royalty on Sales 115.56 88.59
+Allowances for doubtful debts/advances 5.15 8.55
+Bad debt written off 1.65 0.33
+Sundry debits written off 1.88 0.63
+Share of Loss from Limited Liability Partnership - 0.07
+Auditor’s remuneration 3.36 3.54
+Bank charges 23.65 23.98
+Spend on CSR activities 9.12 7.27
+Exchange difference (net) (15.21) 5.55
+Fixed assets written off 1.29 0.68
+Provision for Product Warranties / Guarantees 5.33 15.32
+Miscellaneous expenses 206.63 159.26
+
+Accelerated depreciation for tax purposes 1.29 2.33 3.52
+Impact of fair valuation of Land (47.27) (37.66) (27.36)
+Provision for doubtful debt (including allowance for ECL) (5.61) (4.88) (1.85)
+Expenditure allowable on payment basis (6.16) (5.47) (6.72)
+Expenditure allowable over the period (Section 35D / 35DD) 0.38 (0.03) -
+Unused losses available for offsetting against future taxable income (143.13) (8.44) (24.21)
+Unused tax credit available for offsetting against future taxable income (11.65) (12.39) (4.30)
+Impact of deferment of revenue, net of related cost - (108.06) (88.76)
+Deferred tax on unrealised profit (13.20) (7.11) -
+Others (0.42) (9.78) (8.16)
+(225.77) (191.49) (157.84)
+Details of deferred tax liabilities
+Accelerated depreciation for tax purposes 169.52 141.24 116.07
+Impact of fair valuation of Land 178.35 181.49 181.71
+Provision for doubtful debt (including allowance for ECL) (3.97) (2.44) (2.30)
+Expenditure allowable on payment basis (8.96) (9.48) (6.78)
+Expenditure allowable over the period (Section 35D / 35DD) (9.98) (10.33) (11.46)
+Unused tax credit available for offsetting against future taxable income (240.81) (231.90) (242.65)
+Impact of deferment of revenue, net of related cost - - -
+Deferred tax on unrealised profit (4.40) - (5.49)
+Others 1.91 

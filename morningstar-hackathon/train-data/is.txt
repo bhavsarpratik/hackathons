@@ -1,0 +1,92 @@
+INCOME
+Interest earned 13 202,674,216 164,246,437
+Other income 14 52,238,335 41,567,569
+TOTAL 254,912,551 205,814,006
+II. EXPENDITURE
+Interest expended 15 125,303,624 106,273,367
+Operating expenses 16 52,127,798 41,165,410
+Provisions and contingencies 17 35,235,492 25,074,265
+TOTAL 212,666,914 172,513,042
+III. PROFIT
+Net profit for the year 42,245,637 33,300,964
+Profit brought forward 79,333,915 55,446,801
+TOTAL 121,579,552 88,747,765
+IV. APPROPRIATIONS
+Transfer to Statutory Reserve 10,561,409 8,325,241
+Transfer to Capital Reserve 659,648 1,082,995
+Transfer to Investment Reserve - -
+Dividend paid (Refer Sch. 18.5.1.2) 5,488,101 4,665
+Tax on Dividend paid (Refer Sch. 18.5.1.2) 1,117,377 950
+Balance carried over to balance sheet 103,753,016 79,333,915
+
+Income
+Revenue from operations 3,801.74 7,017.45 4,569.50 2,681.60 1,423.36 866.97
+Other income 53.33 75.16 97.69 132.68 54.93 25.41
+Total revenue (I) 3,855.07 7,092.61 4,667.19 2,814.28 1,478.29 892.38
+Expenses
+Employee benefits expenses 606.51 1,046.85 706.72 436.38 292.46 224.51
+Finance costs 1,772.03 3,165.41 2,082.46 1,290.54 722.53 417.86
+Other expenses 298.86 507.02 416.35 250.57 152.78 125.05
+Depreciation and amortisation expenses 21.70 44.33 26.06 19.23 5.27 6.05
+Provision and write-offs 209.65 1,086.02 140.17 68.38 57.25 43.58
+Total expenses (II) 2,908.75 5,849.63 3,371.76 2,065.10 1,230.29 817.05
+Profit before tax (III)=(I)-(II) 946.32 1,242.98 1,295.43 749.18 248.00 75.33
+Tax expense
+Current tax 345.73 813.33 513.82 285.95 86.26 25.69
+MAT credit entitlement - - - - - (2.57)
+Deferred tax (6.63) (374.64) (50.84) (27.31) (5.16) (27.01)
+Short provision of tax relating to earlier
+years - 1.31 0.04 3.22 0.64 -
+Total tax expense (IV) 339.10 440.00 463.02 261.86 81.74 (3.89)
+Profit for the year (III)-(IV) 607.22 802.98 832.41 487.32 166.26 79.22
+Earnings per equity share
+(Nominal value per share Rs.10)
+
+Income
+Revenue from operations
+Sale of Products 19 5,611.09 5,130.77
+Sale of Services 19 16.50 15.97
+Other Operating Income 19 328.09 218.08
+Revenue from operations 5,955.68 5,364.82
+Other income 20 97.55 101.20
+Total income (I) 6,053.23 5,466.02
+Expenses
+Cost of raw materials and accessories consumed 21 2,385.33 2,077.10
+Purchase of stock-in-trade 22 247.14 116.64
+Changes in inventories of finished goods, work-in-progress and stock-in-trade 23 (100.12) (52.35)
+Project expenses 12.87 9.71
+Employee benefits expense 24 777.52 651.08
+Finance costs 25 234.28 292.16
+Depreciation and amortisation expense 26 181.98 149.16
+Impairment Loss 26 2.81 -
+Other expenses 27 1,910.72 1,772.43
+Total expenses (II) 5,652.53 5,015.93
+Profit before exceptional items and tax (III)=(I-II) 400.70 450.09
+Exceptional items (IV) 28 18.06 (1.37)
+Profit before tax (V) = (III-IV) 382.64 451.46
+Tax expense
+Current tax 29 105.16 95.99
+Deferred tax
+
+REVENUE
+Revenue from operations 9 (a) 21,218.22 16,100.84
+Other Operating income 9(b) 114.79 231.84
+Other income 10 320.47 350.94
+Total Revenue 21,653.48 16,683.62
+EXPENSES
+Training and education expenses 11 7,918.86 6,207.65
+Marketing and advertisement expenses 12 1,101.43 1,097.27
+Employee benefits expenses 13 5,362.79 4,193.90
+ESOP Compensation cost (Refer point B-20 of Note 16) 13 580.53 -
+Administration and other expenses 14 3,415.15 2,827.02
+Finance Costs 15 4.11 27.56
+Depreciation and Amortisation Expenses 5 1,072.62 1,033.38
+Total Expenses 19,455.49 15,386.78
+PROFIT BEFORE TAX 2,197.99 1,296.84
+TAX EXPENSES
+Income Tax 326.79 277.52
+Deferred Tax (Refer point no. B-8 of note 16) - -
+326.79 277.52
+PROFIT AFTER TAX before share of associates 1,871.20 1,019.32
+Add / (Less): Share of profit /(loss) of Associate - (2.44)
+Profit for the Year 1,871.20 1,016.88
