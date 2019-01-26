@@ -23,11 +23,11 @@ Result on eval2 dataset were used to declare winners.
 https://repo.continuum.io/archive/
 
 2) Create an environment.
-`conda create -n msai python=3.6.5 anaconda`
+`conda create -n msai python=3.6.5 anaconda`   
 4) Activate environment
 `conda activate msai`
 3) Installation
-`pip install pip install pytorch-pretrained-bert tqdm pandas`
+`pip install pytorch-pretrained-bert tqdm pandas`
 
 #### Folders
 - bert - Contains the solution which got the best score 0f 0.7008
@@ -43,18 +43,18 @@ https://repo.continuum.io/archive/
 - Create training data using notebooks/etl-bert-final
 ##### Training
 `cd bert`
-`python bert-base-uncased-192-eval1/run_classifier.py`
+`python bert-base-uncased-192-eval1/run_classifier.py`   
 This will save models in data/models
 ##### Eval1 submission
 `python bert-base-uncased-192-eval1/predict.py`
 ##### Eval2 submission
 `python bert-base-uncased-192-eval2/predict.py`
-#### Ablation analysis
+## Ablation analysis
 
 | model                                 | % of majority samples | length     | pre-processed | Score if non-DL | EPOCH0   | EPOCH1   | EPOCH2   | EPOCH3   |
 |---------------------------------------|-----------------------|------------|---------------|-----------------|----------|----------|----------|----------|
-| starting_kit\Baseline1_BM25           | 9of9                  | Full       | F             | 0.44            | NA       | NA       | NA       | NA       |
-| starting_kit\Baseline2_DL             | 9of9                  | Full       | F             | 0.38            | NA       | NA       | NA       | NA       |
+| starting_kit/Baseline1_BM25           | 9of9                  | Full       | F             | 0.44            | NA       | NA       | NA       | NA       |
+| starting_kit/Baseline2_DL             | 9of9                  | Full       | F             | 0.38            | NA       | NA       | NA       | NA       |
 | notebooks/avg_word2vec_from_documents | 9of9                  | Full       | F             | 0.48            | NA       | NA       | NA       | NA       |
 | notebooks/siamese2                    | 3o9                   | q:12, a:20 | T             | NA              |          |          |          | 0.48     |
 | base-uncased                          | 1of9                  | 64         | T             | NA              |          | 0.675724 | 0.670795 | 0.630189 |
