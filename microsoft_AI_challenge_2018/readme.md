@@ -68,5 +68,5 @@ This will save models in data/models
 | base-uncased                          | 2of9                  | 128        | T             | NA              | 0.692998 | 0.69797  | 0.689542 |          |
 | base-uncased                          | 2of9                  | 150        | T             | NA              | 0.692773 | 0.699279 |          |          |
 | base-uncased                          | 2of9                  | 192        | T             | NA              |          | 0.7008   |          |          |
-| large-uncased                         | 1of9                  | 64         |               | 0.270695        |          | 0.26564  | 0.280375 |          |
+| large-uncased                         | 1of9                  | 64         | T             | NA              | 0.270695 | 0.26564  | 0.280375 |          |
 | large-uncased                         | 2of9                  | 64         | T             |                 |          | 0.307753 |          |          |
