@@ -1,12 +1,15 @@
-# Crowdflower Search Relevance
+# Crowdflower Search Relevance  
 
-Colab notebooks   
-https://drive.google.com/drive/folders/1rsvlrDNDzsADFrjaed5iSo3e4PIfnmS2  
+Assignment for interview process at [Edge Networks](https://edgenetworks.in/)  
 
+Info  
 https://www.kaggle.com/c/crowdflower-search-relevance  
 Download data from here  
 https://www.kaggle.com/c/crowdflower-search-relevance/data  
 
+Colab notebooks   
+https://drive.google.com/drive/folders/1rsvlrDNDzsADFrjaed5iSo3e4PIfnmS2  
+  
 I have worked on a similar problem in [Microsoft hackathon 2018](https://github.com/bhavsarpratik/hackathons/tree/master/microsoft_AI_challenge_2018) last December. At the time I had gone through many other available solutions and tried things which had given me an understanding that BERT>LSTM+CNN>hand made feature+classical algo.   
 
 - TFIDF+SVD+SVM - 0.58 (all numbers are weighted kappa as per Kaggle)
@@ -14,7 +17,7 @@ I have worked on a similar problem in [Microsoft hackathon 2018](https://github.
 - sentence-transformer embeddings+FFNN - around 0.57
 - glove.6B.50d+LSTM+CNN - around 0.57
 - bert-large-uncased+SeqClassification head-64l- 0.69
-- bert-base-uncased+SeqClassification head-64l - 0.70
+- bert-base-uncased+SeqClassification head-64l - 0.70  
   I tried bert-base with max_seq_length 48, 64 and 128 and 64 gave the best result.
 - bert-base-uncased+SeqClassification head-64l-neg - I also tried to add negative samples by randomly taking 20% of the rows, shuffling query and giving them median_relevance 1(which means query do not match the product) - 0.68
 - Roberta and Xlnet are even better than BERT at entailment problems as per GLUE RTE metrics but huggingface transformers library kept throwing error when I ran these 2 models. I couldn't find solution to the problems.
