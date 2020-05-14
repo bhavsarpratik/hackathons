@@ -7,9 +7,6 @@ https://www.kaggle.com/c/crowdflower-search-relevance
 Download data from here  
 https://www.kaggle.com/c/crowdflower-search-relevance/data  
 
-Colab notebooks   
-https://drive.google.com/drive/folders/1rsvlrDNDzsADFrjaed5iSo3e4PIfnmS2  
-
 I have worked on a similar problem in [Microsoft hackathon 2018](https://github.com/bhavsarpratik/hackathons/tree/master/microsoft_AI_challenge_2018) last December. At the time I had gone through many other available solutions and tried things which had given me an understanding that BERT>LSTM+CNN>hand made feature+classical algo.   
 
 - TFIDF+SVD+SVM - 0.58 (all numbers are weighted kappa as per Kaggle)
