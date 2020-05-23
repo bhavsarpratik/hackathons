@@ -1,7 +1,7 @@
 # hackathons
 This repo contains my hackathon solutions
 
-Unifynd - 1st Prize   
-Morningstar - 1st Prize  
-Microsoft - 14th    
-crowdflower-search-relevance - Got offer
+Unifynd (Algo trading) - 1st Prize   
+Morningstar (Information extraction and classification) - 1st Prize  
+Microsoft (Learning to rank for search) - 14th    
+crowdflower-search-relevance (Learning to rank for search) - Got offer  
