@@ -1,4 +1,4 @@
-# hackathons
+# My hackathons
 This repo contains my hackathon solutions
 
 Unifynd (Algo trading) - 1st Prize   
